@@ -42,6 +42,9 @@ public class ForLoopChallenges {
 		for (int i = 9+1; i <=51-1; i+=9+1) {
 			System.out.println(i);
 		}
+		
+		System.out.println("\"dog\"");
+		System.out.println("\\\\");
 	}
 
 }
