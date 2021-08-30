@@ -43,6 +43,7 @@ public class ForLoopChallenges {
 			System.out.println(i);
 		}
 		
+		// Practice escape characters.
 		System.out.println("\"dog\"");
 		System.out.println("\\\\");
 	}
